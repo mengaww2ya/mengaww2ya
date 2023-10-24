@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mengaww2ya
+- 👋 Hi, I’m MENGAW WUBETU   @mengaww2ya@gmail.com
 - 👀 I’m interested in codinng 
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
