@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MENGAW WUBETU   @mengaww2ya@gmail.com
 - 👀 I’m interested in codinng 
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning computer science in wolkite university
+- 💞️ I’m looking to collaborate on benacode
 - 📫 How to reach me ...
 
 <!---
