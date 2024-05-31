@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mengaww2ya&show_icons=true&locale=en" alt="mengaww2ya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengaww2ya&" alt="mengaww2ya" /></p>
+
+[![](https://raw.githubusercontent.com/mengaww2ya/mengaww2ya/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mengaww2ya/mengaww2ya/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/mengaww2ya/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mengaww2ya/mengaww2ya/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/mengaww2ya/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
