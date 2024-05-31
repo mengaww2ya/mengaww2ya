@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm MENGAW WUBETU</h1>
 <h3 align="center">COMPUTERSCINCE</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mengaww2ya&label=Profile%20views&color=0e75b6&style=flat" alt="mengaww2ya" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mengaww2ya" alt="mengaww2ya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mengawwube96030" target="blank"><img src="https://img.shields.io/twitter/follow/mengawwube96030?logo=twitter&style=for-the-badge" alt="mengawwube96030" /></a> </p>
@@ -30,6 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mengaww2ya&show_icons=true&locale=en" alt="mengaww2ya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengaww2ya&" alt="mengaww2ya" /></p>
-
-[![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/1-repos-per-language.svg)](https://github.com/mengaww2ya/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/2-most-commit-language.svg)](https://github.com/mengaww2ya/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/3-stats.svg)](https://github.com/mengaww2ya/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/4-productive-time.svg)](https://github.com/mengaww2ya/github-profile-summary-cards)
