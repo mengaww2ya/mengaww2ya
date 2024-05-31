@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MENGAW WUBETU</h1>
 <h3 align="center">COMPUTERSCINCE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mengaww2ya&label=Profile%20views&color=0e75b6&style=flat" alt="mengaww2ya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mengaww2ya" alt="mengaww2ya" /></a> </p>
 
