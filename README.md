@@ -32,6 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengaww2ya&" alt="mengaww2ya" /></p>
 
-[![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/mengaww2ya/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/mengaww2ya/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/mengaww2ya/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/mengaww2ya/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/mengaww2ya/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/mengaww2ya/mengish/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mengaww2ya/mengish/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/mengish/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mengaww2ya/mengish/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mengaww2ya/mengish/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
