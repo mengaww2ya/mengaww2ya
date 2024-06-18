@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **FRONT END AND BACKEND DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mengaww2ya](https://github.com/mengaww2ya)
-
 - 📫 How to reach me **mengaww2ya@gmail.com**
 
 ### Blogs posts
