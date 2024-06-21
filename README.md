@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me - emai:**mengaww2ya@gmail.com**
+- 📫 How to reach me - email:**mengaww2ya@gmail.com**
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
