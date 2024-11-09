@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MENGAW WUBETU</h1>
-<h3 align="center">Computer Science Enthusiast</h3>
+<h3 align="center">Computer Science</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mengaww2ya&label=Profile%20views&color=0e75b6&style=flat" alt="mengaww2ya" /> 
